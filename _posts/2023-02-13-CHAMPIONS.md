@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SUPERBOWL-CHAMPIONS"
+title: "CHAMPIONS"
 date: 2023-02-13 20:05:00 -0100
 categories: CATEGORY-1 CATEGORY-2
 ---
