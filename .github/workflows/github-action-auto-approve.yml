@@ -1,4 +1,4 @@
-name: Auto approve
+name: Automatic approval on pull-requests of given user
 
 on: pull_request_target
 
@@ -10,4 +10,6 @@ jobs:
     if: github.actor == 'pamparamp'
     steps:
       - uses: hmarr/auto-approve-action@v3
+        with:
+          review-message: "Auto approval successful"
 
